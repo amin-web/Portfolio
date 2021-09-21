@@ -1,0 +1,16 @@
+                                           QUESTIONS RELATED TO PROJECT
+
+
+**Unsplash is used here to take the images from internet and whenever user will 
+refresh the page the images will be automatically going to be changed but this will
+work only when your device will have internet connection.**
+https://source.unsplash.com/
+
+
+**We also made a stickybar so that we can fix the upper part of the website**
+
+
+-----media only screen and (max-width:1140px)-----
+**HamBurger-In order to make the  website responsive a hamburger is created so that
+when it can be opened in mobile it doesn't looses it's value. A hamburger will only be seen 
+when the website will be viewed from the mobile at max-width of 1140px or less then that.**
